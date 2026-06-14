@@ -130,7 +130,4 @@ Through this project, I gained hands-on experience with:
 ---
 
 ## Author
-Prahas
-Prahas Sharma
-
-Electronics and Communication Engineering (ECE)
+Prahas 
